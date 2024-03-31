@@ -1,0 +1,152 @@
+[
+    {
+        "university_name": "JUST",
+        "image_path": "jo_unilogos/techno.png",
+        "short_name": "techno"
+    },
+    {
+        "university_name": "Jordanian University",
+        "image_path": "jo_unilogos/ju.png",
+        "short_name": "ju"
+    },
+    {
+        "university_name": "Hashemite University",
+        "image_path": "jo_unilogos/hu.png",
+        "short_name": "hu"
+    },
+    {
+        "university_name": "Yarmouk University",
+        "image_path": "jo_unilogos/yu.png",
+        "short_name": "yu"
+    },
+    {
+        "university_name": "Mutah University",
+        "image_path": "jo_unilogos/mutah.png",
+        "short_name": "mutah"
+    },
+    {
+        "university_name": "AL al-BAYT University",
+        "image_path": "jo_unilogos/aabu.png",
+        "short_name": "aabu"
+    },
+    {
+        "university_name": "Al-Balqa Applied University",
+        "image_path": "jo_unilogos/bau.png",
+        "short_name": "bau"
+    },
+    {
+        "university_name": "Alhussain bin talal University",
+        "image_path": "jo_unilogos/ahu.png",
+        "short_name": "ahu"
+    },
+    {
+        "university_name": "Tafila Technical University",
+        "image_path": "jo_unilogos/ttu.png",
+        "short_name": "ttu"
+    },
+    {
+        "university_name": "German Jordanian University",
+        "image_path": "jo_unilogos/gju.png",
+        "short_name": "gju"
+    },
+    {
+        "university_name": "Ibn Sina University for Medical Sciences",
+        "image_path": "jo_unilogos/isums.png",
+        "short_name": "isums"
+    },
+    {
+        "university_name": "Aqaba Medical Sciences University",
+        "image_path": "jo_unilogos/amsu.png",
+        "short_name": "amsu"
+    },
+    {
+        "university_name": "Aqaba University of Technology",
+        "image_path": "jo_unilogos/aut.png",
+        "short_name": "aut"
+    },
+    {
+        "university_name": "Ajloun National University",
+        "image_path": "jo_unilogos/anu.png",
+        "short_name": "anu"
+    },
+    {
+        "university_name": "American University of Madaba",
+        "image_path": "jo_unilogos/aum.png",
+        "short_name": "aum"
+    },
+    {
+        "university_name": "Jadara University",
+        "image_path": "jo_unilogos/jadara.png",
+        "short_name": "jadara"
+    },
+    {
+        "university_name": "Middle East University",
+        "image_path": "jo_unilogos/meu.png",
+        "short_name": "meu"
+    },
+    {
+        "university_name": "Amman Arab University",
+        "image_path": "jo_unilogos/aau.png",
+        "short_name": "aau"
+    },
+    {
+        "university_name": "Zarqa University",
+        "image_path": "jo_unilogos/zu.png",
+        "short_name": "zu"
+    },
+    {
+        "university_name": "Irbid National University",
+        "image_path": "jo_unilogos/inu.png",
+        "short_name": "inu"
+    },
+    {
+        "university_name": "Al-Zaytoonah University of Jordan",
+        "image_path": "jo_unilogos/zuj.png",
+        "short_name": "zuj"
+    },
+    {
+        "university_name": "Jerash University‎",
+        "image_path": "jo_unilogos/jpu.png",
+        "short_name": "jpu"
+    },
+    {
+        "university_name": "Princess Sumaya University for Technology",
+        "image_path": "jo_unilogos/psut.png",
+        "short_name": "psut"
+    },
+    {
+        "university_name": "Isra University",
+        "image_path": "jo_unilogos/iu.png",
+        "short_name": "iu"
+    },
+    {
+        "university_name": "University of Petra",
+        "image_path": "jo_unilogos/uop.png",
+        "short_name": "uop"
+    },
+    {
+        "university_name": "Applied Science Private University",
+        "image_path": "jo_unilogos/asu.png",
+        "short_name": "asu"
+    },
+    {
+        "university_name": "Philadelphia University",
+        "image_path": "jo_unilogos/philadelphia.png",
+        "short_name": "philadelphia"
+    },
+    {
+        "university_name": "Al-Ahliyya Amman University",
+        "image_path": "jo_unilogos/ammanu.png",
+        "short_name": "ammanu"
+    },
+    {
+        "university_name": "Al Hussein Technical University",
+        "image_path": "jo_unilogos/htu.png",
+        "short_name": "htu"
+    },
+    {
+        "university_name": "The World Islamic Sciences and Education University",
+        "image_path": "jo_unilogos/wise.png",
+        "short_name": "wise"
+    }
+]
